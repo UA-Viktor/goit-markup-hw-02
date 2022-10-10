@@ -303,14 +303,15 @@ img {
   color: var(--text-color-head-footer);
 }
 
-.address:not(:last-child) {
-  margin-bottom: 9px;
+.mail {
+  margin-bottom: 900px;
 }
 
 .footer .street {
   font-style: normal;
   font-size: 14px;
   line-height: 1.71;
+  margin-bottom: 9px;
 }
 
 .address a {
