@@ -94,8 +94,9 @@ img {
 
   display: flex;
   margin-left: 93px;
-  margin-top: 32px;
-  margin-bottom: 32px;
+}
+.link {
+  padding: 24px 0;
 }
 
 .header-main li:not(:last-child) {
@@ -304,6 +305,8 @@ img {
 }
 
 .mail {
+  display: inline;
+
   margin-bottom: 900px;
 }
 
